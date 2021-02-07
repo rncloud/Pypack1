@@ -1,5 +1,5 @@
 import PySimpleGUI as pg
-from cmd_exec import Add_exec
+import cmd_exec
 
 pg.theme('SandyBeach')
 
