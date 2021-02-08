@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 PySimpleGUI==4.34.0
+=======
+PySimpleGUI==4.34.0
+>>>>>>> origin/master
